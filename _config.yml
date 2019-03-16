@@ -38,3 +38,5 @@ publishDir = "docs"
     width = 50
     height = 50
     alt = "Logo"
+
+theme: jekyll-theme-slate
